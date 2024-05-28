@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login_FireStore</string>
+    <string name="bienvenido">Bienvenido!</string>
+    <string name="incia_sesi_n_para_continuar">Inicia sesion para continuar</string>
+    <string name="ingresa_tu_correo_electr_nico">Ingresa tu correo electronico</string>
+    <string name="ingresa_tu_contrase_a">Ingresa tu contraseña</string>
+    <string name="iniciar_sesi_n">Iniciar sesion</string>
+    <string name="crear_una_cuenta_nueva">Crear una cuenta nueva</string>
+    <string name="confirma_tu_contrase_a">Confirma tu contraseña</string>
+    <string name="reg_strate">Registrate</string>
+</resources>
